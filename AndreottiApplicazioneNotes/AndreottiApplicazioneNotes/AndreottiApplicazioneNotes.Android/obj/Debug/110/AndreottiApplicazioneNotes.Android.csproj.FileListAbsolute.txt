@@ -24,3 +24,12 @@ C:\Users\Utente\Desktop\AndreottiApplicazioneNotes\AndreottiApplicazioneNotes\An
 C:\Users\Utente\Desktop\AndreottiApplicazioneNotes\AndreottiApplicazioneNotes\AndreottiApplicazioneNotes.Android\obj\Debug\110\R.txt
 C:\Users\Utente\Desktop\AndreottiApplicazioneNotes\AndreottiApplicazioneNotes\AndreottiApplicazioneNotes.Android\obj\Debug\110\R.cs.flag
 C:\Users\Utente\Desktop\AndreottiApplicazioneNotes\AndreottiApplicazioneNotes\AndreottiApplicazioneNotes.Android\obj\Debug\110\AndreottiApplicazioneNotes.Android.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\AndreottiApplicazioneNotes\AndreottiApplicazioneNotes\AndreottiApplicazioneNotes.Android\obj\Debug\110\lp\46\jl\files.cache
+C:\Users\Utente\Desktop\AndreottiApplicazioneNotes\AndreottiApplicazioneNotes\AndreottiApplicazioneNotes.Android\obj\Debug\110\lp\52\jl\files.cache
+C:\Users\Utente\Desktop\AndreottiApplicazioneNotes\AndreottiApplicazioneNotes\AndreottiApplicazioneNotes.Android\obj\Debug\110\lp\56\jl\files.cache
+C:\Users\Utente\Desktop\AndreottiApplicazioneNotes\AndreottiApplicazioneNotes\AndreottiApplicazioneNotes.Android\obj\Debug\110\lp\64\jl\files.cache
+C:\Users\Utente\Desktop\AndreottiApplicazioneNotes\AndreottiApplicazioneNotes\AndreottiApplicazioneNotes.Android\obj\Debug\110\lp\69\jl\files.cache
+C:\Users\Utente\Desktop\AndreottiApplicazioneNotes\AndreottiApplicazioneNotes\AndreottiApplicazioneNotes.Android\obj\Debug\110\lp\74\jl\files.cache
+C:\Users\Utente\Desktop\AndreottiApplicazioneNotes\AndreottiApplicazioneNotes\AndreottiApplicazioneNotes.Android\obj\Debug\110\lp\77\jl\files.cache
+C:\Users\Utente\Desktop\AndreottiApplicazioneNotes\AndreottiApplicazioneNotes\AndreottiApplicazioneNotes.Android\obj\Debug\110\lp\80\jl\files.cache
+C:\Users\Utente\Desktop\AndreottiApplicazioneNotes\AndreottiApplicazioneNotes\AndreottiApplicazioneNotes.Android\obj\Debug\110\lp\88\jl\files.cache
