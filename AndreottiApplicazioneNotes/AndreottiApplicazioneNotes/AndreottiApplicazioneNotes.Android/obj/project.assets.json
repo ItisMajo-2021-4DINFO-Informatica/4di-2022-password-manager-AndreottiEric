@@ -2384,11 +2384,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Utente\\Desktop\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes.Android\\AndreottiApplicazioneNotes.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Utente\\Desktop\\4di-2022-password-manager-AndreottiEric\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes.Android\\AndreottiApplicazioneNotes.Android.csproj",
       "projectName": "AndreottiApplicazioneNotes.Android",
-      "projectPath": "C:\\Users\\Utente\\Desktop\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes.Android\\AndreottiApplicazioneNotes.Android.csproj",
+      "projectPath": "C:\\Users\\Utente\\Desktop\\4di-2022-password-manager-AndreottiEric\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes.Android\\AndreottiApplicazioneNotes.Android.csproj",
       "packagesPath": "C:\\Users\\Utente\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Utente\\Desktop\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes.Android\\obj\\",
+      "outputPath": "C:\\Users\\Utente\\Desktop\\4di-2022-password-manager-AndreottiEric\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2409,8 +2409,8 @@
       "frameworks": {
         "monoandroid11.0": {
           "projectReferences": {
-            "C:\\Users\\Utente\\Desktop\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes.csproj": {
-              "projectPath": "C:\\Users\\Utente\\Desktop\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes.csproj"
+            "C:\\Users\\Utente\\Desktop\\4di-2022-password-manager-AndreottiEric\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes.csproj": {
+              "projectPath": "C:\\Users\\Utente\\Desktop\\4di-2022-password-manager-AndreottiEric\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes.csproj"
             }
           }
         }

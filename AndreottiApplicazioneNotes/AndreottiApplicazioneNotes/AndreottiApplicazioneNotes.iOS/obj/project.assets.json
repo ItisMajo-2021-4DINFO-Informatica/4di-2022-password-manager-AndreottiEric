@@ -1458,11 +1458,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Utente\\Desktop\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes.iOS\\AndreottiApplicazioneNotes.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Utente\\Desktop\\4di-2022-password-manager-AndreottiEric\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes.iOS\\AndreottiApplicazioneNotes.iOS.csproj",
       "projectName": "AndreottiApplicazioneNotes.iOS",
-      "projectPath": "C:\\Users\\Utente\\Desktop\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes.iOS\\AndreottiApplicazioneNotes.iOS.csproj",
+      "projectPath": "C:\\Users\\Utente\\Desktop\\4di-2022-password-manager-AndreottiEric\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes.iOS\\AndreottiApplicazioneNotes.iOS.csproj",
       "packagesPath": "C:\\Users\\Utente\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Utente\\Desktop\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes.iOS\\obj\\",
+      "outputPath": "C:\\Users\\Utente\\Desktop\\4di-2022-password-manager-AndreottiEric\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1483,8 +1483,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Utente\\Desktop\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes.csproj": {
-              "projectPath": "C:\\Users\\Utente\\Desktop\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes.csproj"
+            "C:\\Users\\Utente\\Desktop\\4di-2022-password-manager-AndreottiEric\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes.csproj": {
+              "projectPath": "C:\\Users\\Utente\\Desktop\\4di-2022-password-manager-AndreottiEric\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes.csproj"
             }
           }
         }

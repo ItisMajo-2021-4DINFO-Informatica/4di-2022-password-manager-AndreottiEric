@@ -6,7 +6,7 @@ namespace Notes
 {
     public partial class App : Application
     {
-        public static string NoteDatabase { get; set; }
+        public static string NoteDatabase { get; private set; }
 
         public App()
         {

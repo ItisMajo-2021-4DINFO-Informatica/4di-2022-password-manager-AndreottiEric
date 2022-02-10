@@ -846,11 +846,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Utente\\Desktop\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes.csproj",
+      "projectUniqueName": "C:\\Users\\Utente\\Desktop\\4di-2022-password-manager-AndreottiEric\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes.csproj",
       "projectName": "AndreottiApplicazioneNotes",
-      "projectPath": "C:\\Users\\Utente\\Desktop\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes.csproj",
+      "projectPath": "C:\\Users\\Utente\\Desktop\\4di-2022-password-manager-AndreottiEric\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes.csproj",
       "packagesPath": "C:\\Users\\Utente\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Utente\\Desktop\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes\\obj\\",
+      "outputPath": "C:\\Users\\Utente\\Desktop\\4di-2022-password-manager-AndreottiEric\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",

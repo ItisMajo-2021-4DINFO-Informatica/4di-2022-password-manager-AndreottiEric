@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uQGw7HAGBG+sQaMyhh5g2d0hWxGlVya50elUqE3+46EOBHOZnbiOwu9NlLJquWVf27AUtOXV2PfTa9HLQYZaUg==",
+  "dgSpecHash": "/DOLWQIEBsM1wgCAGslLAIfyP7E3KpWR/Ec48PNK+y0NfdQ9YDIbnmCcxdNc79bGo2/UjjcTyLieL8pXCGyZRw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Utente\\Desktop\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes.Android\\AndreottiApplicazioneNotes.Android.csproj",
+  "projectFilePath": "C:\\Users\\Utente\\Desktop\\4di-2022-password-manager-AndreottiEric\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes\\AndreottiApplicazioneNotes.Android\\AndreottiApplicazioneNotes.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Utente\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
     "C:\\Users\\Utente\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",
